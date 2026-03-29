@@ -1,0 +1,5 @@
+config.json
+upload_log.txt
+__pycache__/
+*.pyc
+.claude/
